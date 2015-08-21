@@ -2,7 +2,7 @@
 <footer class="footer">
     <div class="footer-inner">
         <div class="copyright pull-left">
-         <a href="<?php echo get_option('home'); ?> " title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a> 版权所有，保留一切权利   ·   基于<a href="http://www.2zzt.com" title="WordPress">WordPress</a>构建   © 2011-2014  ·   托管于 <a rel="nofollow" target="_blank" href="http://www.2zzt.com/go/aliyun">阿里云主机</a> & <a rel="nofollow" target="_blank" href="http:///www.2zzt.com/go/qiniu">七牛云存储</a>
+         <a href="<?php echo get_option('home'); ?> " title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a> 版权所有，保留一切权利   ·   基于<a href="http://www.2zzt.com" title="WordPress">WordPress</a>构建   © 2011-2015
         </div>
         <div class="trackcode pull-right">
             <?php if( dopt('d_track_b') ) echo dopt('d_track'); ?>

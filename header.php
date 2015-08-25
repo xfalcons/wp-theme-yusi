@@ -18,7 +18,7 @@ if( is_singular() ){
 <script>
 window._deel = {name: '<?php bloginfo('name') ?>',url: '<?php echo get_bloginfo("template_url") ?>', ajaxpager: '<?php echo dopt('d_ajaxpager_b') ?>', commenton: <?php echo $commenton ?>, roll: [<?php echo $sr_1 ?>,<?php echo $sr_2 ?>]}
 </script>
-<link href='http://www.youziku.com/webfont/CSS/d0ff5d176f54ff2292dfbd2d9fccbff1' rel='stylesheet' type='text/css'/>
+<link href='http://www.youziku.com/webfont/CSS/3873c1b88119e408725de881acbdd2b0' rel='stylesheet' type='text/css'/>
 <?php 
 wp_head(); 
 if( dopt('d_headcode_b') ) echo dopt('d_headcode'); ?>
